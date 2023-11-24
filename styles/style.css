@@ -80,12 +80,34 @@
 
 .theme-menu__button:hover {
   opacity: 0.6;
+  transition: opacity 0.3s ease;
   cursor: pointer;
+}
+
+.theme-menu__button::after {
+  content: '';
+  display: block;
+  width: 0%;
+  height: 3px;
+  margin-top: 3px;
+  background-color: currentColor;
+  transition: width 0.3s, background-color 0.3s ease;
+}
+
+.theme-menu__button:hover::after {
+  width: 100%;
+  background-color: currentColor;
+}
+
+.theme-menu__button:focus-visible::after {
+  width: 100%;
+  background-color: currentColor;
 }
 
 .theme-menu__button:disabled {
   position: relative;
   opacity: 0.6;
+  pointer-events: none;
 }
 
 .theme-menu__button:disabled::before {
@@ -93,8 +115,13 @@
   width: 16px;
   height: 13px;
   position: absolute;
-  inset-inline-start: -12px;
-  inset-block-end: 3px;
+  inset-inline-start: -15px;
+  animation: arrow 0.5s infinite ease-in-out alternate-reverse;
+}
+
+.theme-menu__button:focus {
+  outline: none;
+  opacity: 0.6;
 }
 
 .content {
@@ -199,3 +226,12 @@
 .button__text {
 
 }
+
+@keyframes arrow {
+  0% {
+    transform: translate(0);
+  }
+  100% {
+    transform: translate(4px);
+  }
+} 
