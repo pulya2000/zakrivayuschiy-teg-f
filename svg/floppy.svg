@@ -1,22 +1,5 @@
-<svg 
-  xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 39 39"
->
-  <symbol id="floppy"
-    fill="currentColor"
-  >
-    <path fill="#000" d="M0 0h3v3H0zm0 3h3v3H0zm0 3h3v3H0zm0 3h3v3H0zm0 3h3v3H0zm0 3h3v3H0zm0 3h3v3H0zm0 3h3v3H0zm0 3h3v3H0zm0 3h3v3H0zm0 3h3v3H0zm0 3h3v3H0zm0 3h3v3H0zM33 0v3h-3V0z"/>
-    <path fill="#000" d="M30.003 0v3h-3V0zM27 0v3h-3V0zm-3 0v3h-3V0zm-3.001 0v3h-3V0z"/>
-    <path fill="#000" d="M18 0v3h-3V0zm-3.001 0v3h-3V0z"/>
-    <path fill="#000" d="M12 0v3H9V0zM8.996 0v3h-3V0z"/>
-    <path fill="#000" d="M6 0v3H3V0zm30 3v3h-3V3zM8.996 6v3h-3V6zm0-3v3h-3V3zm0 6v3h-3V9zm21.007-3v3h-3V6zm0-3v3h-3V3zm0 6v3h-3V9zM24 6v3h-3V6zm0-3v3h-3V3zm0 6v3h-3V9zm6.003 3v3h-3v-3zM27 12v3h-3v-3zm-3 0v3h-3v-3zm-3.001 0v3h-3v-3z"/>
-    <path fill="#000" d="M18 12v3h-3v-3zm-3.001 0v3h-3v-3z"/>
-    <path fill="#000" d="M12 12v3H9v-3zm-3.004 0v3h-3v-3zM33 21v3h-3v-3z"/>
-    <path fill="#000" d="M30.003 21v3h-3v-3zM27 21v3h-3v-3zm-3 0v3h-3v-3zm-3.001 0v3h-3v-3z"/>
-    <path fill="#000" d="M18 21v3h-3v-3zm-3.001 0v3h-3v-3z"/>
-    <path fill="#000" d="M12 21v3H9v-3zm-3.004 0v3h-3v-3zM33 24v3h-3v-3zM8.996 24v3h-3v-3zM33 27v3h-3v-3zM8.996 27v3h-3v-3zM33 30v3h-3v-3zM8.996 30v3h-3v-3zm0 3v3h-3v-3zM33 33v3h-3v-3zm3 3v3h-3v-3zm-3 0v3h-3v-3z"/>
-    <path fill="#000" d="M30.003 36v3h-3v-3zM27 36v3h-3v-3zm-3 0v3h-3v-3zm-3.001 0v3h-3v-3z"/>
-    <path fill="#000" d="M18 36v3h-3v-3zm-3.001 0v3h-3v-3z"/>
-    <path fill="#000" d="M12 36v3H9v-3zm-3.004 0v3h-3v-3z"/>
-    <path fill="#000" d="M6 36v3H3v-3zm33 3h-3v-3h3zm0-3h-3v-3h3zm0-3h-3v-3h3zm0-3h-3v-3h3zm0-3h-3v-3h3zm0-3h-3v-3h3zm0-3h-3v-3h3zm0-3h-3v-3h3zm0-3h-3v-3h3zm0-3h-3V9h3zm0-3h-3V6h3z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <symbol id="floppy">
+    <path class="floppy-color" d="M.5.5h3v3h-3zM.5 3.5h3v3h-3zM.5 6.5h3v3h-3zM.5 9.5h3v3h-3zM.5 12.5h3v3h-3zM.5 15.5h3v3h-3zM.5 18.5h3v3h-3zM.5 21.5h3v3h-3zM.5 24.5h3v3h-3zM.5 27.5h3v3h-3zM.5 30.5h3v3h-3zM.5 33.5h3v3h-3zM.5 36.5h3v3h-3zM33.5.5v3h-3v-3zM30.5.5v3h-3v-3zM27.5.5v3h-3v-3zM24.5.5v3h-3v-3zM21.5.5v3h-3v-3zM18.5.5v3h-3v-3zM15.5.5v3h-3v-3zM12.5.5v3h-3v-3zM9.5.5v3h-3v-3zM6.5.5v3h-3v-3zM36.5 3.5v3h-3v-3zM9.5 6.5v3h-3v-3zM9.5 3.5v3h-3v-3zM9.5 9.5v3h-3v-3zM30.5 6.5v3h-3v-3zM30.5 3.5v3h-3v-3zM30.5 9.5v3h-3v-3zM24.5 6.5v3h-3v-3zM24.5 3.5v3h-3v-3zM24.5 9.5v3h-3v-3zM30.5 12.5v3h-3v-3zM27.5 12.5v3h-3v-3zM24.5 12.5v3h-3v-3zM21.5 12.5v3h-3v-3zM18.5 12.5v3h-3v-3zM15.5 12.5v3h-3v-3zM12.5 12.5v3h-3v-3zM9.5 12.5v3h-3v-3zM33.5 21.5v3h-3v-3zM30.5 21.5v3h-3v-3zM27.5 21.5v3h-3v-3zM24.5 21.5v3h-3v-3zM21.5 21.5v3h-3v-3zM18.5 21.5v3h-3v-3zM15.5 21.5v3h-3v-3zM12.5 21.5v3h-3v-3zM9.5 21.5v3h-3v-3zM33.5 24.5v3h-3v-3zM9.5 24.5v3h-3v-3zM33.5 27.5v3h-3v-3zM9.5 27.5v3h-3v-3zM33.5 30.5v3h-3v-3zM9.5 30.5v3h-3v-3zM9.5 33.5v3h-3v-3zM33.5 33.5v3h-3v-3zM36.5 36.5v3h-3v-3zM33.5 36.5v3h-3v-3zM30.5 36.5v3h-3v-3zM27.5 36.5v3h-3v-3zM24.5 36.5v3h-3v-3zM21.5 36.5v3h-3v-3zM18.5 36.5v3h-3v-3zM15.5 36.5v3h-3v-3zM12.5 36.5v3h-3v-3zM9.5 36.5v3h-3v-3zM6.5 36.5v3h-3v-3zM39.5 39.5h-3v-3h3zM39.5 36.5h-3v-3h3zM39.5 33.5h-3v-3h3zM39.5 30.5h-3v-3h3zM39.5 27.5h-3v-3h3zM39.5 24.5h-3v-3h3zM39.5 21.5h-3v-3h3zM39.5 18.5h-3v-3h3zM39.5 15.5h-3v-3h3zM39.5 12.5h-3v-3h3zM39.5 9.5h-3v-3h3z"/>
   </symbol>
 </svg>

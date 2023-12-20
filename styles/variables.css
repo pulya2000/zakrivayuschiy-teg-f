@@ -9,6 +9,8 @@
     --bg-image: repeating-linear-gradient(#d3d3d3 0 2px, transparent 2px 4px),
               repeating-linear-gradient(to right, #d3d3d3 0 2px, transparent 2px 4px),
               linear-gradient(#e7e7e7 0.01%, #1a1a1a);
-    --width-content: clamp(375px, 48.5vw, 100%);
+    --width-content: clamp(100px, 70.5vw, 90%);
     --stroke-color: #fff;
+    --button-color: #fff;
+    --animation-color: red;
   }
