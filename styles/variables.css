@@ -2,7 +2,7 @@
 :root {
     --thems-main-color: #000;
     --main-font: Inter-Variable, sans-serif;
-    --accent-font: PressStart2P-Regular, sans-serif;
+    --accent-font: PressStart2P-Regular, fantasy;
     --font-weight-main: 400;
     --font-weight-head: 700;
     --bg-color: #fff;
@@ -10,7 +10,6 @@
               repeating-linear-gradient(to right, #d3d3d3 0 2px, transparent 2px 4px),
               linear-gradient(#e7e7e7 0.01%, #1a1a1a);
     --width-content: clamp(100px, 70.5vw, 90%);
-    --stroke-color: #fff;
     --button-color: #fff;
     --animation-color: red;
   }

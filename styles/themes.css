@@ -19,7 +19,6 @@
 :root.theme-light {
   --bg-color: #fff;
   --thems-main-color: #000;
-  --stroke-color: #fff;
   --button-color: #fff;
   --bg-image: repeating-linear-gradient(#d3d3d3 0 2px, transparent 2px 4px),
               repeating-linear-gradient(to right, #d3d3d3 0 2px, transparent 2px 4px),
@@ -30,7 +29,6 @@
     :root {
       --bg-color: #000;
       --thems-main-color: #00CC14;
-      --stroke-color: #000;
       --button-color: #00cc14;
       --font-weight-main: 465;
       --font-weight-head: 785;
